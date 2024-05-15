@@ -9,3 +9,4 @@ https://min950227.notion.site/32e80cdb8b084dc388cb1ffa383aea15?pvs=4 //[리스�
 [도움]
 
 https://min950227.notion.site/cbae4fafafea4f97af5b9ace61e70403?pvs=4 // 개발일지(단축키, 이론)
+https://min950227.notion.site/30f68eb0443541cda3f7b0243c147030?pvs=4 // 개발메모장(유용한사이트, 한눈에보기)
